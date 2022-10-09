@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'hello-worldd'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_359620BD37E14C6D8602219F024C9916 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D7DCD80633D4DB99443BD7B58EF5074 }}
